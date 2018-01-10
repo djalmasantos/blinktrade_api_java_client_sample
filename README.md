@@ -35,6 +35,7 @@ The program execution output will show the available program options and explain
 Yes, <a href="https://testnet.blinktrade.com/">blinktrade tesnet exchange</a>.
 
 <b>List of exchanges running the blinktrade platform</b><br>
+- [bitcambio](https://bitcambio.com.br/)
 - [chilebit](https://chilebit.net)
 - [foxbit](https://foxbit.com.br)
 - [VBTC](https://vbtc.vn)
